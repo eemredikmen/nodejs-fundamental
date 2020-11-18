@@ -1,0 +1,21 @@
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Nodejs first file created
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 0started
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 0end
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 1started
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 1end
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 2started
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 2end
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 3started
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 3end
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 4started
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 4end
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 5started
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 5end
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 6started
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 6end
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 7started
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 7end
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 8started
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 8end
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 9started
+Thu Apr 23 2020 22:14:01 GMT+0300 (GMT+03:00) :Number : 9end
